@@ -1,20 +1,22 @@
-# Hi, I'm Peiwen Zhang 👋
+# Hi, I'm Peiwen Zhang
 
-**HCI × AI Agents**
+**HCI × AI Agents × Interactive Systems**
 
-I build and study interactive AI systems that work with real software. I'm especially interested in agent interfaces, human-in-the-loop systems, and safe automation.
+MSc HCI student at Université Paris-Saclay. I build and study interactive AI systems where people can understand, steer, and control automation.
 
-## Currently working on
-- **AI-Work** — a Windows AI assistant built around MCP, local workflows, and explicit safety boundaries.
+## Featured Project
+**[AI-Work](https://github.com/peiwenZHANG-git/AI-Work)** — Human-in-the-loop Windows automation with MCP, bounded local capabilities, controlled browser workflows, and explicit confirmation for consequential actions.
 
-## Interests
+## Currently building
+**Peiwen's Little World** — an interactive portfolio.
+
+## Focus
 - Human–Computer Interaction
 - AI Agents
-- Human-in-the-loop systems
-- Safe automation
-- Developer tools
+- Interactive Systems
+- Human control and safe automation
 
 ## Contact
 - Email: peiwen.zhang@universite-paris-saclay.fr
 - LinkedIn: coming soon
-- Website: coming soon
+- Portfolio: coming soon
