@@ -4,11 +4,13 @@
 
 MSc HCI student at Université Paris-Saclay. I build and study interactive AI systems where people can understand, steer, and control automation.
 
-## Featured Project
-**[AI-Work](https://github.com/peiwenZHANG-git/AI-Work)** — Human-in-the-loop Windows automation with MCP, bounded local capabilities, controlled browser workflows, and explicit confirmation for consequential actions.
+## Featured Work
 
-## Currently building
-**Peiwen's Little World** — an interactive portfolio.
+### [AI-Work](https://github.com/peiwenZHANG-git/AI-Work)
+Human-in-the-loop Windows automation with MCP, bounded local capabilities, controlled browser workflows, and explicit confirmation for consequential actions.
+
+### [Peiwen's Little World](https://github.com/peiwenZHANG-git/peiwen-little-world)
+An illustrated, spatial HCI portfolio built with Next.js, React, and TypeScript, exploring interaction design, accessibility, responsive composition, and frontend engineering.
 
 ## Focus
 - Human–Computer Interaction
