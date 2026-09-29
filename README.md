@@ -1,8 +1,8 @@
 # Hi, I'm Peiwen Zhang
 
-**HCI × AI Agents × Interactive Systems**
+**HCI × AI Product**
 
-MSc HCI student at Université Paris-Saclay. I build and study interactive AI systems where people can understand, steer, and control automation.
+MSc HCI student at Université Paris-Saclay, building AI products people can understand and control, with product thinking and a technical AI background.
 
 ## Featured Work
 
