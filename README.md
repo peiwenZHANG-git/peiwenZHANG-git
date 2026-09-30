@@ -23,3 +23,4 @@ Live site: https://peiwen-little-world.vercel.app
 ## Contact
 - Email: peiwen.zhang@universite-paris-saclay.fr
 - Portfolio: https://peiwen-little-world.vercel.app
+- LinkedIn: https://www.linkedin.com/in/peiwen-zhang-hci
